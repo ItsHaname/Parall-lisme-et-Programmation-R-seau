@@ -68,9 +68,10 @@ int main()
     return 0;
 }
 */
-
-
-
+/*Ce que tu vas observer
+V1 fils dort 10s   ---> fils devient zombie en attendant le père
+V2 père dort 10s  ---->fils devient orphelin, adopté par init
+*/
 
 
 
