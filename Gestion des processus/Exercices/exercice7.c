@@ -25,3 +25,6 @@ int main()
             printf("pere  : PID=%d a cree fils=%d\n", getpid(), pid);
     }
     return 0;
+/*Rôle du break
+Sans break chaque fils repart dans la boucle et crée d'autres fils — ça explose. Avec break seul le père crée les fils.
+ */
