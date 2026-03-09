@@ -1,6 +1,5 @@
 # 🖥️ La Famille des Appels exec
 
-> Cours Programmation Système — Pr. M.A. El Kiram | Université Cadi Ayyad
 
 ---
 
@@ -162,4 +161,3 @@ int main(int argc, char *argv[])
 
 ---
 
-*Cours Programmation Système — Pr. M.A. El Kiram | Université Cadi Ayyad*
